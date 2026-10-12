@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/StudentRecords/">
+    <Project Path="Module7JsonStudentRecords/StudentRecordsManager.csproj" />
+  </Folder>
+</Solution>

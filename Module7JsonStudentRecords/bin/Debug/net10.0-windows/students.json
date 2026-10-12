@@ -1,0 +1,72 @@
+[
+  {
+    "StudentId": 1001,
+    "FirstName": "Abigail",
+    "LastName": "Johnson",
+    "ProgramName": "Biology",
+    "GPA": 3.5
+  },
+  {
+    "StudentId": 1002,
+    "FirstName": "Bryce",
+    "LastName": "Williams",
+    "ProgramName": "Data Analytics",
+    "GPA": 2.7
+  },
+  {
+    "StudentId": 1003,
+    "FirstName": "June",
+    "LastName": "Brown",
+    "ProgramName": "Nursing",
+    "GPA": 1.5
+  },
+  {
+    "StudentId": 1004,
+    "FirstName": "Daniel",
+    "LastName": "Reese",
+    "ProgramName": "Chemistry",
+    "GPA": 4.0
+  },
+  {
+    "StudentId": 1005,
+    "FirstName": "Caleb",
+    "LastName": "Werner",
+    "ProgramName": "Building Construction",
+    "GPA": 3.2
+  },
+  {
+    "StudentId": 1006,
+    "FirstName": "Nicholas",
+    "LastName": "Gage",
+    "ProgramName": "Entrepreneurship",
+    "GPA": 3.1
+  },
+  {
+    "StudentId": 1007,
+    "FirstName": "Erin",
+    "LastName": "Harris",
+    "ProgramName": "Veterinary Nursing",
+    "GPA": 0.8
+  },
+  {
+    "StudentId": 1008,
+    "FirstName": "Terri",
+    "LastName": "Sedaris",
+    "ProgramName": "Biology",
+    "GPA": 3.9
+  },
+  {
+    "StudentId": 1009,
+    "FirstName": "Frank",
+    "LastName": "Jackson",
+    "ProgramName": "Business",
+    "GPA": 2.1
+  },
+  {
+    "StudentId": 1010,
+    "FirstName": "Kelly",
+    "LastName": "Lewellen",
+    "ProgramName": "Design",
+    "GPA": 2.9
+  }
+]
