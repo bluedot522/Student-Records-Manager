@@ -123,7 +123,7 @@ namespace Module7JsonStudentRecords
             bool isValid = false;
             if (txtSearch.Text == "")
             {
-                lblResults.Text = "Please enter a student ID number or name to search.";
+                lblResults.Text = "Please enter an ID or name to search.";
             }
             else
             {
